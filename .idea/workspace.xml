@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="0d4a32bf-bc44-4437-bd9f-c37e0cd80478" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution>
+      <executable />
+    </execution>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="CSS File" />
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1ZzYqGRdcGY0Ak8uiPMVz8vZi3B" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Heaj\TFE 2020\Dev\testPixi\assets" />
+    </key>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0d4a32bf-bc44-4437-bd9f-c37e0cd80478" name="Default Changelist" comment="" />
+      <created>1585843578362</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1585843578362</updated>
+      <workItem from="1585843579712" duration="1921000" />
+      <workItem from="1585922311594" duration="1446000" />
+      <workItem from="1585989822099" duration="12931000" />
+      <workItem from="1586015835631" duration="109000" />
+      <workItem from="1586074052332" duration="4983000" />
+      <workItem from="1586162045517" duration="3846000" />
+      <workItem from="1586243892326" duration="625000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="520" y="241" width="672" height="678" key="search.everywhere.popup" timestamp="1585993690290">
+      <screen x="0" y="0" width="1714" height="1103" />
+    </state>
+    <state x="520" y="241" width="672" height="678" key="search.everywhere.popup/0.0.1714.1103@0.0.1714.1103" timestamp="1585993690290" />
+  </component>
+</project>
